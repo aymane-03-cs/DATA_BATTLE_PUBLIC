@@ -1,3 +1,5 @@
-# DATA BATLLE: a web application disined for patent training.
+# DATA BATTLE: a web application designed for patent training.
 
-# Check ./backend/README.md and ./frontend/README.md
+## Check
+- [./backend/README.md](./backend/README.md)
+- [./frontend/README.md](./frontend/README.md)
