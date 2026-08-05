@@ -43,7 +43,7 @@ README.md               top-level README (this file)
 - For QCM questions the backend compares the submitted answer to the stored `correct_answer` and returns a boolean result.
 - For open-ended questions the backend uses the vectorstore retriever to find relevant reference passages, builds a prompt (see `backend/analyzer.py`), and calls the local LLM via Ollama to produce structured feedback.
 
-## Quick start — Backend
+## Quick start : Backend
 1. Requirements: Python 3.8+
 2. Install dependencies:
    ```bash
@@ -108,5 +108,5 @@ Notes:
   - Verify the vectorstore exists and contains documents.
 - Frontend issues: ensure both frontend dev server and backend Flask server are running and that frontend points to the correct backend origin.
 
-## License
-(Add your license here if applicable.)
+
+
