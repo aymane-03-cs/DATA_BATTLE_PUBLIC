@@ -1,4 +1,4 @@
-# DATA_BATTLE_PUBLIC — RAG web app for patent exam training
+# DATA_BATTLE_PUBLIC : RAG web app for patent exam training
 
 A Retrieval-Augmented Generation (RAG) web application for training and evaluating answers to patent exam questions. Learners can answer multiple-choice (QCM) and open-ended questions; open-ended answers are evaluated by retrieving relevant reference material from a semantic vectorstore and producing structured feedback with a local LLM.
 
